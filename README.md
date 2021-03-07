@@ -1,4 +1,4 @@
-# Single Price Grid Component
+# Single Price Grid Component (With Responsive)
 
 ![Design preview for the Single Price Grid Component coding challenge](./design/desktop-design.jpg)
 
